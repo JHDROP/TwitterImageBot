@@ -1,8 +1,8 @@
 # TwitterImageBot
 This bot contains different ways of processing images and posting them on twitter 
 
-This Twitterbot takes an image from your local memory. 
-Transfroms it in different ways.
+It takes an image from your local memory. 
+Transforms it in different ways.
 Saves the transformed picture on you computer. 
 And finally post it on twitter.
 
